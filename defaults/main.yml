@@ -15,7 +15,7 @@
 
   docker: no
 
-  oracle-xe-test: no
+  oracle_xe_test: no
 
   proxy: no
   proxy_url: ""
